@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8edc64ab-6ef6-4c97-adf3-d8e7f2852ab5" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Items/Item.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Items/AmmoItem.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Items/HealthItem.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Controllers/GameController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/MovingPlatforms/SidePlatform.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Controllers/FPSController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/SingletonDecal.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Doors/ShootingGalleryDoor.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Enemy/Enemy State/DieState.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/CheckPoints/CheckPoint.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/MovingPlatforms/Elevator.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Enemy/Enemy State/IEnemyState.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Enemy/HitCollider.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Enemy/EnemyCounter.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Plugins/RainMaker/Prefab/RainScript.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/ChangeScene.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Items/ShieldItem.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Plugins/JMO Assets/WarFX/Scripts/WFX_BulletHoleDecal.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Enemy/Enemy State/IdleState.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Plugins/JMO Assets/WarFX/Scripts/CFX_AutoDestructShuriken.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Enemy/Enemy State/PatrolState.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Items/Key.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Enemy/Enemy State/HitState.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Enemy/Enemy State/AlertState.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/CheckPoints/SingletonCheckPoint.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/DestroyAfterTime.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Plugins/Environment/Water/Water4/Shaders/WaterInclude.cginc" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Controllers/ShootingGalleryController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Plugins/Aura 2/Core/Code/Classes/Texture2DArrayComposer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Enemy/Enemy State/ChaseState.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Doors/AutomaticDoor.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Doors/KeyDoor.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Enemy/DroneEnemy.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/MovingPlatforms/MovingPlatform.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Enemy/Enemy State/AttackState.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Weapon.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/Scripts/Character Controller.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/FPSController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Item.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Drone.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Enemy State/EnemyState.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Enemy State/IDLE_State.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Enemy State/HitState .cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Enemy State/IDLEState.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Enemy State/IEnemyState.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Enemy State/PatrolState.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Enemy State/AlertState.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Enemy State/AttackState.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Enemy State/ChaseState.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Enemy State/HitState.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Enemy State/DieState.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Enemy State/IdleState.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Enemy.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Enemy/HitCollider.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Enemy/Enemy State/IEnemyState.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Bullet.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Items/Item.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Items/AmmoItem.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Items/HealthItem.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Items/ShieldItem.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Items/Key.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/EnemyCounter.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/MovingPlatforms/SidePlatform.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/CheckPoint.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/SingletonCheckPoint.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Controllers/GameController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/SingletonDecal.cs" />
+        <option value="$PROJECT_DIR$/Assets/Plugins/JMO Assets/WarFX/Scripts/WFX_BulletHoleDecal.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Doors/KeyDoor.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Enemy/Enemy State/AlertState.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Enemy/Enemy State/IdleState.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Enemy/Enemy State/AttackState.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Enemy/Enemy State/ChaseState.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Doors/AutomaticDoor.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Weapon.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Enemy/Enemy State/HitState.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/CheckPoints/CheckPoint.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/ChangeScene.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Doors/ShootingGalleryDoor.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Controllers/FPSController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Controllers/ShootingGalleryController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Enemy/Enemy State/PatrolState.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/MovingPlatforms/MovingPlatform.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/MovingPlatforms/Elevator.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Enemy/Enemy State/DieState.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/CheckPoints/SingletonCheckPoint.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Enemy/DroneEnemy.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1RKsy0CGgSWdlIlG4p5joEMQ0rt" />
+  <component name="PropertiesComponent">
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="userSelectedPid" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="userSelectedPid" value="false" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8edc64ab-6ef6-4c97-adf3-d8e7f2852ab5" name="Default Changelist" comment="" />
+      <created>1569427374263</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1569427374263</updated>
+      <workItem from="1569427378915" duration="4062000" />
+      <workItem from="1569514945477" duration="710000" />
+      <workItem from="1570029363620" duration="7240000" />
+      <workItem from="1570115652984" duration="6179000" />
+      <workItem from="1570636468495" duration="1283000" />
+      <workItem from="1570720511019" duration="2934000" />
+      <workItem from="1571854917770" duration="103000" />
+      <workItem from="1571855225812" duration="5293000" />
+      <workItem from="1571991779769" duration="12663000" />
+      <workItem from="1572015727477" duration="14637000" />
+      <workItem from="1572078673342" duration="8370000" />
+      <workItem from="1572115378724" duration="13543000" />
+      <workItem from="1572172774857" duration="6471000" />
+      <workItem from="1572185285197" duration="6031000" />
+      <workItem from="1572195076984" duration="1220000" />
+      <workItem from="1572290614712" duration="10377000" />
+      <workItem from="1572345973220" duration="214000" />
+      <workItem from="1572377143955" duration="2092000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="VcsManagerConfiguration">
+    <option name="LOCAL_CHANGES_DETAILS_PREVIEW_SHOWN" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
